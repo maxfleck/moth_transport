@@ -12,11 +12,11 @@ This notebook introduces MotH and showns how to fit viscosity and self-diffusion
 
 Qualitative analysis of the relation between a free volume model and thermal conductivity.
 
-#### 03_MotH_demo_train_parallel
+#### 02_MotH_demo_train_parallel
 
 Parallel training of viscosity, thermal conductivity and self-diffusion.
 
-#### 04_free_volume_energy
+#### 03_free_volume_energy
 
 Plots of free volume and activation energy for different molecules includin MD water results.
 
