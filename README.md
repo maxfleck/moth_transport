@@ -52,6 +52,20 @@ Or open in VS Code (`code .`) and select the `.venv` interpreter.
 
 If you find MotH useful for your own scientific studies, consider citing our publication accompanying this library.
 
+```
+@article{fleck2026moth,
+author = {Maximilian Fleck  and Marcelle B M Spera },
+title = {Model of the Henrys: Eyring, Frank, and the Foundations for Predicting Transport Coefficients},
+journal = {ChemRxiv},
+volume = {2026},
+number = {0419},
+pages = {},
+year = {2026},
+doi = {10.26434/chemrxiv.15001840/v2},
+URL = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15001840/v2},
+}
+```
+If you use the experimental data provided here, consider citing it too. Sources are available in the SI of our publication.
 
 If you use the code, please also cite FeOs as we are using the code as well as the PC-SAFT parameters from this package.
 
@@ -66,3 +80,4 @@ If you use the code, please also cite FeOs as we are using the code as well as t
   year = {2023},
 }
 ```
+
